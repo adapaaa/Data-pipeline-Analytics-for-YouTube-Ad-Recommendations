@@ -14,6 +14,7 @@ In this project we choose YouTube video dataset. YouTube, a platform which was f
 YouTube tools today states that its advertisers currently have a reach to 2.476 billion users on YouTube daily, making it the world’s 2nd most ‘active’ social media platforms. Moreover, tools show that YouTube’s active users have grown quickly over the past years. The total number of users that advertisers can reach with ads on YouTube increased by roughly 185 million (-3.4%) in the twelve months leading up to July 2022.
 With this project we built a serverless completely cloud-based data pipeline using various ETL, Big Data, Data Warehousing, Data Analytics, Data Mining techniques. The pipeline provides key insights and poses as a recommender model to recommend an appropriate AD for each video according to the most viewed category in a particular region. 
  
+
 DATASET:
 Our dataset for the project consists of analytical data on a large set of daily trending YouTube videos spanning over several months and several regions saved in several file formats. The dataset majorly consolidated into 2 different file formats. 
 Firstly, a set of 10 csv files separately for each region: United States (US), Great Britain (GB), Denmark (DE), California (CA), Russia (RU), Mexico (MX), South Korea (KR), Japan (JP), India (IN) and France (FR). Each CSV file lists details regarding the variables title, channel title, category_id, publishing time, tags, views, likes and dislikes, description, and comment count for each video in it.
